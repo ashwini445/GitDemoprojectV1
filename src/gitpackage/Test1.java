@@ -1,6 +1,5 @@
 package gitpackage;
 
-import com.vedha.sampleprograms.EvenOdd;
 
 public class Test1 {
 
